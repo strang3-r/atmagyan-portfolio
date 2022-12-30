@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/atmagyan-portfolio/static/css/main.c81abaec.css",
+    "main.js": "/atmagyan-portfolio/static/js/main.6714a1eb.js",
+    "static/media/me.png": "/atmagyan-portfolio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/atmagyan-portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "/atmagyan-portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/atmagyan-portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/atmagyan-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/CV.pdf": "/atmagyan-portfolio/static/media/CV.18d2c1402d0110f98630.pdf",
+    "static/media/portfolio1.jpg": "/atmagyan-portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/atmagyan-portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/atmagyan-portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/slick.svg": "/atmagyan-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/atmagyan-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/atmagyan-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/atmagyan-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/atmagyan-portfolio/index.html",
+    "main.c81abaec.css.map": "/atmagyan-portfolio/static/css/main.c81abaec.css.map",
+    "main.6714a1eb.js.map": "/atmagyan-portfolio/static/js/main.6714a1eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c81abaec.css",
+    "static/js/main.6714a1eb.js"
+  ]
+}
