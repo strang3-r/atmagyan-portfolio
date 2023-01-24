@@ -24,20 +24,20 @@ const About = () => {
                         <article className="about__card">
                             <FaAward className="about__icon"/>
                             <h5>Experience</h5>
-                            <small>3+ Years Working</small>
+                            <small>2+ Years Working</small>
                         </article>
                         <article className="about__card">
                             <FiUsers className="about__icon"/>
                             <h5>Clients</h5>
-                            <small>200+ Worldwide Clients</small>
+                            <small>10+ Worldwide Clients</small>
                         </article><article className="about__card">
                             <VscFolderLibrary className="about__icon"/>
                             <h5>Projects</h5>
-                            <small>60+ Projects</small>
+                            <small>10+ Projects</small>
                         </article>
                     </div>
 
-                    <p>Lorem ipsum, dolor sit amet consectetur, adipisicing elit. Iure consectetur numquam nihil eius autem aut eaque cum saepe laborum, quod cupiditate error porro necessitatibus aspernatur. Nihil corporis iusto quisquam placeat?</p>
+                    <p>To use my extensive knowledge of software engineering, innovative problem-solving skills, and passion for technology to develop and implement high-quality software solutions and contribute to the success of the organization.</p>
 
                     <a href="#contact" className="btn btn-primary">Let's Talk</a>
 
