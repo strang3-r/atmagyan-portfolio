@@ -1,19 +1,19 @@
 import React from 'react';
 
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/IMG1.jpeg'
+import IMG2 from '../../assets/IMG2.jpeg'
+import IMG3 from '../../assets/IMG3.jpeg'
+import IMG4 from '../../assets/IMG4.jpeg'
+import IMG5 from '../../assets/IMG5.jpeg'
+import IMG6 from '../../assets/IMG6.jpeg'
 
 
 const data = [
     {   
         id: 1,
       image: IMG1,
-      title: 'Tina Snow',
+      title: 'E-Commerce',
       github: 'https://github.com/Black-D3vil007',
       live: 'https://github.com/Black-D3vil007'
     },
@@ -21,35 +21,35 @@ const data = [
     {   
         id: 2,
         image: IMG2,
-        title: 'Shatta Wale',
+        title: 'Crypto Zombies',
         github: 'https://github.com/Black-D3vil007',
         live: 'https://github.com/Black-D3vil007'
     },
     {   
         id: 4,
         image: IMG3,
-        title: 'Kwame Despite',
+        title: 'HooBank',
         github: 'https://github.com/Black-D3vil007',
         live: 'https://github.com/Black-D3vil007'
     },
     {   
         id: 4,
         image: IMG4,
-        title: 'Mr. D3vil',
+        title: 'Portfolio',
         github: 'https://github.com/Black-D3vil007',
         live: 'https://github.com/Black-D3vil007'
     },
     {   
         id: 5,
         image: IMG5,
-        title: 'Mr. D3vil',
+        title: 'Amazon Clone',
         github: 'https://github.com/Black-D3vil007',
         live: 'https://github.com/Black-D3vil007'
     },
     {   
         id: 6,
         image: IMG6,
-        title: 'Mr. D3vil',
+        title: 'To- Do List',
         github: 'https://github.com/Black-D3vil007',
         live: 'https://github.com/Black-D3vil007'
     }
