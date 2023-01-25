@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/atmagyan-portfolio/static/css/main.4cc2a80c.css",
-    "main.js": "/atmagyan-portfolio/static/js/main.8d972569.js",
+    "main.js": "/atmagyan-portfolio/static/js/main.e58014a7.js",
     "static/media/d3vil.jpg": "/atmagyan-portfolio/static/media/d3vil.25e171d42123f5508d47.jpg",
+    "static/media/CV.pdf": "/atmagyan-portfolio/static/media/CV.3715c3f070848b2b401e.pdf",
     "static/media/Atmagyan.png": "/atmagyan-portfolio/static/media/Atmagyan.8e4bc243fde884d706d1.png",
-    "static/media/CV.pdf": "/atmagyan-portfolio/static/media/CV.18d2c1402d0110f98630.pdf",
     "static/media/IMG1.jpeg": "/atmagyan-portfolio/static/media/IMG1.09c3d1fdd4889e61c7ef.jpeg",
     "static/media/IMG5.jpeg": "/atmagyan-portfolio/static/media/IMG5.7b8ed5bbe5a0c1372e13.jpeg",
     "static/media/slick.svg": "/atmagyan-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -13,10 +13,10 @@
     "static/media/slick.woff": "/atmagyan-portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/atmagyan-portfolio/index.html",
     "main.4cc2a80c.css.map": "/atmagyan-portfolio/static/css/main.4cc2a80c.css.map",
-    "main.8d972569.js.map": "/atmagyan-portfolio/static/js/main.8d972569.js.map"
+    "main.e58014a7.js.map": "/atmagyan-portfolio/static/js/main.e58014a7.js.map"
   },
   "entrypoints": [
     "static/css/main.4cc2a80c.css",
-    "static/js/main.8d972569.js"
+    "static/js/main.e58014a7.js"
   ]
 }
