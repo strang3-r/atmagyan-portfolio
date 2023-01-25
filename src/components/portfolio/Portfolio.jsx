@@ -14,44 +14,44 @@ const data = [
         id: 1,
       image: IMG1,
       title: 'E-Commerce',
-      github: 'https://github.com/Black-D3vil007',
-      live: 'https://github.com/Black-D3vil007'
+      github: 'https://github.com/Black-D3vil007/TMN_Ecomm',
+      live: 'https://github.com/Black-D3vil007/TMN_Ecomm'
     },
 
     {   
         id: 2,
         image: IMG2,
         title: 'Crypto Zombies',
-        github: 'https://github.com/Black-D3vil007',
-        live: 'https://github.com/Black-D3vil007'
+        github: 'https://github.com/Black-D3vil007/Crypto-Zombies',
+        live: 'https://github.com/Black-D3vil007/Crypto-Zombies'
     },
     {   
         id: 4,
         image: IMG3,
         title: 'HooBank',
-        github: 'https://github.com/Black-D3vil007',
-        live: 'https://github.com/Black-D3vil007'
+        github: 'https://github.com/Black-D3vil007/HooBank/tree/master',
+        live: 'https://github.com/Black-D3vil007/HooBank/tree/master'
     },
     {   
         id: 4,
         image: IMG4,
         title: 'Portfolio',
-        github: 'https://github.com/Black-D3vil007',
-        live: 'https://github.com/Black-D3vil007'
+        github: 'https://github.com/Black-D3vil007/My-Portfolio',
+        live: 'https://my-portfolio-git-main-black-d3vil007.vercel.app/'
     },
     {   
         id: 5,
         image: IMG5,
         title: 'Amazon Clone',
-        github: 'https://github.com/Black-D3vil007',
-        live: 'https://github.com/Black-D3vil007'
+        github: 'https://github.com/Black-D3vil007/amazonclone.github.io',
+        live: 'https://github.com/Black-D3vil007/amazonclone.github.io'
     },
     {   
         id: 6,
         image: IMG6,
         title: 'To- Do List',
-        github: 'https://github.com/Black-D3vil007',
-        live: 'https://github.com/Black-D3vil007'
+        github: 'https://github.com/Black-D3vil007/To-do-list-1',
+        live: 'https://github.com/Black-D3vil007/To-do-list-1'
     }
 
 ]
